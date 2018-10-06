@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kotlin News Feeds</string>
+    <string name="button">Button</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="about_dialog">This application displays data from <i>The Verge</i> API. Click the articles to read more!</string>
+    <string name="about">About</string>
+    <string name="refresh">Refresh</string>
+    <string name="action_back">Back</string>
+    <string name="action_forward">Forward</string>
+    <string name="action_bookmark">Bookmark</string>
+    <string name="action_settings">Settings</string>
+</resources>
